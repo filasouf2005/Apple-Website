@@ -15,7 +15,7 @@ gsap.registerPlugin(ScrollTrigger);
 
 const App = () => {
   return (
-    <main>
+    <main className="p-10 ">
       <Navbar />
       <Hero />
       <ProductViewr />
